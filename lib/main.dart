@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Hottests',
+      title: 'Hottest',
       theme: ThemeData(
         primarySwatch: Colors.deepOrange,
         materialTapTargetSize: MaterialTapTargetSize.shrinkWrap,
